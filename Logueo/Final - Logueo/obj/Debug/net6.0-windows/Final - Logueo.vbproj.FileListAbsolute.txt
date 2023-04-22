@@ -1,0 +1,77 @@
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.exe
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.deps.json
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.runtimeconfig.json
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.pdb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.pdb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.xml
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.pdb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.xml
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.pdb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.xml
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.AssemblyReference.cache
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Form1.resources
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Form2.resources
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.GenerateResource.cache
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.AssemblyInfoInputs.cache
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.AssemblyInfo.vb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.CopyComplete
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\refint\Final - Logueo.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.pdb
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.genruntimeconfig.cache
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\ref\Final - Logueo.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.dll.config
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\Final - Logueo\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Resources.resources
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.AssemblyReference.cache
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Form1.resources
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Form2.resources
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.Resources.resources
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.GenerateResource.cache
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.AssemblyInfoInputs.cache
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.AssemblyInfo.vb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\refint\Final - Logueo.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.pdb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.exe
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.deps.json
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.runtimeconfig.json
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Final - Logueo.pdb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Serilog.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Serilog.Exceptions.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\Serilog.Exceptions.SqlServer.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.pdb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeEntidades.xml
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.pdb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeNegocios.xml
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.pdb
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.xml
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\bin\Debug\net6.0-windows\CapaDeDatos.dll.config
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.vbproj.CopyComplete
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final - Logueo.genruntimeconfig.cache
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\ref\Final - Logueo.dll
+C:\Users\Luca\source\repos\PRUEBA DE FINAL\Final - Logueo\obj\Debug\net6.0-windows\Final___Logueo.CambioPass.resources

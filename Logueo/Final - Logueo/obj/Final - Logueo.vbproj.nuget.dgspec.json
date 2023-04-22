@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\Final - Logueo\\Final - Logueo.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeDatos\\CapaDeDatos.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeDatos\\CapaDeDatos.vbproj",
+        "projectName": "CapaDeDatos",
+        "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeDatos\\CapaDeDatos.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj": {
+                "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj",
+        "projectName": "CapaDeEntidades",
+        "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeNegocios\\CapaDeNegocios.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeNegocios\\CapaDeNegocios.vbproj",
+        "projectName": "CapaDeNegocios",
+        "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeNegocios\\CapaDeNegocios.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeDatos\\CapaDeDatos.vbproj": {
+                "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeDatos\\CapaDeDatos.vbproj"
+              },
+              "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj": {
+                "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\Final - Logueo\\Final - Logueo.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\Final - Logueo\\Final - Logueo.vbproj",
+        "projectName": "Final - Logueo",
+        "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\Final - Logueo\\Final - Logueo.vbproj",
+        "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\Final - Logueo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj": {
+                "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeEntidades\\CapaDeEntidades.vbproj"
+              },
+              "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeNegocios\\CapaDeNegocios.vbproj": {
+                "projectPath": "C:\\Users\\Luca\\source\\repos\\PRUEBA DE FINAL\\CapaDeNegocios\\CapaDeNegocios.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Serilog.Exceptions.SqlServer": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
